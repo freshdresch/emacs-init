@@ -18,6 +18,6 @@ These are required for the `init.el` file to work as-is. Of course undesired pac
 * Better experience opening very large files: `vlf`
 * Highlighting tabs: `whitespace`
 * Themes:
-  * [Spolsky](https://github.com/bbatsov/solarized-emacs), my chosen GUI theme: `solarized-theme`
+  * [Spolsky](https://github.com/owainlewis/emacs-color-themes), my chosen GUI theme: `sublime-themes`
   * [Monokai Pro](https://github.com/oneKelvinSmith/monokai-emacs), my chosen terminal theme: `monokai-pro-theme`
 
